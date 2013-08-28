@@ -1,0 +1,12 @@
+#Black Background
+background "#A8A8A8"
+#kludges fix_window_pos
+
+#parent_bg true
+
+geometry 1x1[+1[+1]]
+#grow_gravity SE
+#icon_gravity SE
+window_strut none
+
+window_layer top
